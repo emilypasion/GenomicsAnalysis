@@ -5,7 +5,7 @@ CopyEdit
 FROM ubuntu:20.04
 
 # Maintainer Information
-MAINTAINER Cesar jespinoza@kgi.edu
+MAINTAINER Emily epasion25@kgi.edu
 
 # Install Dependencies
 RUN apt-get update && \
