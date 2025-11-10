@@ -1,0 +1,12 @@
+HW2 Scavenger Hunt 
+cd clues/12345
+python3 next_clue.py 7 3 10 
+python3 next_clue.py 7 4 geneshark
+python3 next_clue.py 7 5 -n
+python3 next_clue.py 7 6 /usr/local/sbin 
+python3 next_clue.py 7 7 /usr/bin/touch 
+python3 next_clue.py 7 8 denied
+python3 next_clue.py 7 9 102401
+python3 next_clue.py 7 10 tactfully 
+python3 next_clue.py 7 11 "-k 5 -rn" 
+07603
