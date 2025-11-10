@@ -10,3 +10,16 @@ python3 next_clue.py 7 9 102401
 python3 next_clue.py 7 10 tactfully 
 python3 next_clue.py 7 11 "-k 5 -rn" 
 07603
+
+These were the numbers used 
+./06329/clue
+./07603/clue
+./09495/clue
+./12338/clue
+./12345/clue
+./19773/clue
+./47932/clue
+./51751/clue
+./70240/clue
+./76388/clue
+./85320/clue
